@@ -1,3 +1,3 @@
 <?php
 
-echo 'language is farsi';
+$lang = 'english';
